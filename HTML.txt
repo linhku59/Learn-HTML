@@ -1,0 +1,76 @@
+### HTML5
+ ## Document outline
+    _ !DOCTYPE  - Version of (X)HTML
+    _ html      - HTML document
+    _ head      - Page information
+    _ body      - Page contents
+
+ ## MISC
+    _ img       - Image
+    _ <!-- -->  - Comment
+    _ a         - Link
+    _ video     - video
+    _ audio     - audio
+    _ source    _ source
+
+ ## Page information
+    _ base      - Base URL
+    _ meta      - Meta data
+    _ title     - Title
+    _ link      - Relevant resource
+    _ style     - Style resource
+    _ script    - Script resource
+
+ ## Document structure
+    _ h1-h6     - Heading
+    _ div       - Page section
+    _ span      - Inline section
+    _ p         - Paragraph
+    _ br        - Line break
+    _ hr        - Horizontal rule
+
+ ## Text Formatting
+    _ b         - Bold text
+    _ strong    - Important text
+    _ i         - Italic text
+    _ em        - Emphasized text
+    _ mark      - Marked text
+    _ small     - Smaller text
+    _ del       - Deleted text
+    _ ins       - Inserted text
+    _ sub       - Subscript text
+    _ sup       - Superscript text
+
+ ## LIST
+    _ ul        - unordered list
+    _ ol        - ordered list
+    _ li        - list item
+ ## Layout
+    _ header
+    _ nav
+    _ main
+    _ section
+    _ article
+    _ aside
+    _ footer
+ ## FORM
+    _ form      - Form
+    _ fieldset  - Collection of fields
+    _ legend    - From legend
+    _ label     - Input label
+    _ input     - From input
+    _ select    - Drop-down box
+    _ optgroup  - Group of options
+    _ option    - Drop down options
+    _ textarea  - Large text input
+    _ button    - Button
+
+ ## Table
+    _ table     - Table
+    _ caption   - Caption
+    _ thead     - Table head
+    _ tbody     - Table body
+    _ tfoot     - Table foot
+    _ tr        - Table row
+    _ th        - Header cell
+    _ td        - Table cell
