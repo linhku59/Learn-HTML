@@ -74,5 +74,3 @@
     _ tr        - Table row
     _ th        - Header cell
     _ td        - Table cell
-
-## upload
